@@ -1,6 +1,6 @@
 # MineSweeper from 'Michiel Verhulst'
 
-Welcome to MineSweeper 'PERSONAL NAME'! This is a classic game where your goal is to uncover all the squares on the board without detonating any mines. Be careful and use your logical reasoning skills to successfully navigate through the minefield.
+Welcome to MineSweeper! This is a classic game where your goal is to uncover all the squares on the board without detonating any mines. Be careful and use your logical reasoning skills to successfully navigate through the minefield.
 
 ## How to Play
 
@@ -18,7 +18,7 @@ Welcome to MineSweeper 'PERSONAL NAME'! This is a classic game where your goal i
 
 ## Extensions
 
-MineSweeper 'PERSONAL NAME' offers some additional features to enhance your gaming experience:
+MineSweeper offers some additional features to enhance your gaming experience:
 
 - **Mouse Hover Effects:** When you move your mouse over a square, it lights up, providing visual feedback to help you navigate the board more easily.
 
@@ -34,4 +34,4 @@ MineSweeper 'PERSONAL NAME' offers some additional features to enhance your gami
 
 ## Have Fun!
 
-Enjoy MineSweeper from 'Michiel Verhulst' and have fun challenging yourself with this timeless puzzle game. Uncover the squares strategically, avoid the mines, and aim for the best time. Good luck, and may your minesweeper skills shine!
+Enjoy MineSweeper and have fun challenging yourself with this timeless puzzle game. Uncover the squares strategically, avoid the mines, and aim for the best time. Good luck, and may your minesweeper skills shine!
